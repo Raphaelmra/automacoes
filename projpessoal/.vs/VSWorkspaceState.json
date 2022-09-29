@@ -4,8 +4,8 @@
     "\\cypress",
     "\\cypress\\fixtures",
     "\\cypress\\integration",
-    "\\cypress\\integration\\e2e"
+    "\\cypress\\integration\\AutomationPractice"
   ],
-  "SelectedNode": "\\cypress\\integration\\e2e\\Cadastro.js",
+  "SelectedNode": "\\cypress\\integration\\AutomationPractice\\Login.js",
   "PreviewInSolutionExplorer": false
 }
