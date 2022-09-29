@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\fixtures",
+    "\\cypress\\integration",
+    "\\cypress\\integration\\e2e"
+  ],
+  "SelectedNode": "\\cypress\\integration\\e2e\\Cadastro.js",
+  "PreviewInSolutionExplorer": false
+}
